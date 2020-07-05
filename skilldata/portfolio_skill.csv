@@ -1,0 +1,201 @@
+id,skill_kind,skill_name,skill_img
+1,Application&Data,Mongoose,https://img.stackshare.io/service/1231/0TXzZU7W_400x400.jpg
+2,Application&Data,JavaScript,https://img.stackshare.io/service/1209/javascript.jpeg
+3,Application&Data,jQuery,https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg
+4,Application&Data,Python,https://img.stackshare.io/service/993/pUBY5pVj.png
+5,Application&Data,Node.js,https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+6,Application&Data,PHP,https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg
+7,Application&Data,React,https://img.stackshare.io/service/1020/OYIaJ1KK.png
+8,Application&Data,nginx,https://img.stackshare.io/service/1052/YMxUfyWf.png
+9,Application&Data,Java,https://img.stackshare.io/service/995/K85ZWV2F.png
+10,Application&Data,HTML5,https://img.stackshare.io/service/2538/kEpgHiC9.png
+11,Application&Data,MySQL,https://img.stackshare.io/service/1025/logo-mysql-170x170.png
+12,Application&Data,Google Fonts,https://img.stackshare.io/service/2652/ZWREQYdH_400x400.jpg
+13,Application&Data,MongoDB,https://img.stackshare.io/service/1030/leaf-360x360.png
+14,Application&Data,PostgreSQL,https://img.stackshare.io/service/1028/ASOhU5xJ.png
+15,Application&Data,Apache HTTP Server,https://img.stackshare.io/service/1051/fab.os.logo.apache.200.15011_400x400.jpg
+16,Application&Data,Bootstrap,https://img.stackshare.io/service/1101/C9QJ7V3X.png
+17,Application&Data,Ubuntu,https://img.stackshare.io/service/3511/cof_orange_hex.jpg
+18,Application&Data,AngularJS,https://img.stackshare.io/service/1019/square.png
+19,Application&Data,Redis,https://img.stackshare.io/service/1031/redis.png
+20,Application&Data,Amazon EC2,https://img.stackshare.io/service/18/amazon-ec2.png
+21,Application&Data,Amazon S3,https://img.stackshare.io/service/25/amazon-s3.png
+22,Application&Data,ES6,https://img.stackshare.io/service/4109/16407404782_8b9c57eab3.jpg
+23,Application&Data,TypeScript,https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+24,Application&Data,jQuery UI,https://img.stackshare.io/service/1022/jqueryui_avatar_96.png
+25,Application&Data,Vue.js,https://img.stackshare.io/service/3837/paeckCWC.png
+26,Application&Data,C#,https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+27,Application&Data,Sass,https://img.stackshare.io/service/1171/jCR2zNJV.png
+28,Application&Data,Ruby,https://img.stackshare.io/service/989/ruby.png
+29,Application&Data,Firebase,https://img.stackshare.io/service/116/cZLxNFZS.jpg
+30,Application&Data,Django,https://img.stackshare.io/service/994/4aGjtNQv.png
+31,Application&Data,Heroku,https://img.stackshare.io/service/133/3wgIDj3j.png
+32,Application&Data,React Native,https://img.stackshare.io/service/2699/KoK6gHzp.jpg
+33,Application&Data,Laravel,https://img.stackshare.io/service/992/AcA2LnWL_400x400.jpg
+34,Application&Data,Android SDK,https://img.stackshare.io/service/1010/m8jf0po4imu8t5eemjdd.png
+35,Application&Data,Redux,https://img.stackshare.io/service/4074/13142323.png
+36,Application&Data,ExpressJS,https://img.stackshare.io/service/1163/hashtag.png
+37,Application&Data,GraphQL,https://img.stackshare.io/service/3820/12972006.png
+38,Application&Data,Rails,https://img.stackshare.io/service/990/x57_Lorv.png
+39,Application&Data,CSS 3,https://img.stackshare.io/service/6727/css.png
+40,Application&Data,ASP.NET,https://img.stackshare.io/service/6755/2c45151a4a11d3a3c8e71bb34dd069d6_400x400.png
+41,Application&Data,DigitalOcean,https://img.stackshare.io/service/295/Onjxs6Lw_400x400.jpg
+42,Application&Data,Spring Boot,https://img.stackshare.io/service/2927/nPzvMuo2_400x400.png
+43,Application&Data,Microsoft Azure,https://img.stackshare.io/service/213/W9gT7hZo.png
+44,Application&Data,AWS Lambda,https://img.stackshare.io/service/1909/aws-lambda.png
+45,Application&Data,Go,https://img.stackshare.io/service/1005/O6AczwfV_400x400.png
+46,Application&Data,Kafka,https://img.stackshare.io/service/1063/kazUJooF_400x400.jpg
+47,Application&Data,RabbitMQ,https://img.stackshare.io/service/1061/rabbit.jpg
+48,Application&Data,Flask,https://img.stackshare.io/service/1001/flask.jpg
+49,Application&Data,Markdown,https://img.stackshare.io/service/1147/markdown.png
+50,Application&Data,Swift,https://img.stackshare.io/service/1009/tuHsaI2U.png
+51,businessTools,Slack,https://img.stackshare.io/service/675/RNiSRYOF_400x400.jpg
+52,businessTools,WordPress,https://img.stackshare.io/service/250/logo.png
+53,businessTools,Gmail,https://img.stackshare.io/service/3167/_K34MGL8_400x400.jpg
+54,businessTools,Font Awesome,https://img.stackshare.io/service/3244/1_Mr1Fy00XjPGNf1Kkp_hWtw_2x.png
+55,businessTools,Jira,https://img.stackshare.io/service/154/Qifq4jpS_400x400.jpg
+56,businessTools,Trello,https://img.stackshare.io/service/109/-CvHThPk_400x400.jpg
+57,businessTools,G Suite,https://img.stackshare.io/service/247/oYkAxyQM_400x400.jpg
+58,businessTools,Mailchimp,https://img.stackshare.io/service/47/69XlPqVT.png
+59,businessTools,Confluence,https://img.stackshare.io/service/769/5_z16TbH_400x400.jpg
+60,businessTools,Google AdSense,https://img.stackshare.io/service/5137/xvWejEyc_400x400.jpg
+61,businessTools,Skype,https://img.stackshare.io/service/340/skype.png
+62,businessTools,Drupal,https://img.stackshare.io/service/1226/H9IAAYru_400x400.jpg
+63,businessTools,InVision,https://img.stackshare.io/service/165/r9uL4jWU.png
+64,businessTools,Asana,https://img.stackshare.io/service/108/asana.png
+65,businessTools,HubSpot,https://img.stackshare.io/service/256/9Q0oQwl2_400x400.jpg
+66,businessTools,Zendesk,https://img.stackshare.io/service/70/ObVtJEgP_400x400.png
+67,businessTools,Intercom,https://img.stackshare.io/service/257/qmwr6vjg_400x400.png
+68,businessTools,Salesforce Sales Cloud,https://img.stackshare.io/service/35/lGZFUPOW.png
+69,businessTools,AdRoll,https://img.stackshare.io/service/149/f75dfcf3cf533e77fa92148d9183397c.png
+70,businessTools,Acquia,https://img.stackshare.io/service/8246/uXDAUlXc_400x400.jpg
+71,businessTools,HipChat,https://img.stackshare.io/service/144/R2NV13gL.png
+72,businessTools,Sketch,https://img.stackshare.io/service/4561/c07jH7QS.jpg
+73,businessTools,Adobe Photoshop,https://img.stackshare.io/service/3176/lxVcZyci.jpg
+74,businessTools,Zoho Mail,https://img.stackshare.io/service/3616/FRau1Ij3_400x400.png
+75,businessTools,Marketo,https://img.stackshare.io/service/56/4uY7BObm.jpeg
+76,businessTools,Zoom,https://img.stackshare.io/service/6083/uGzVfgaE.png
+77,businessTools,Zapier,https://img.stackshare.io/service/286/0bd8e9aaccec949490082ad22c7ee60f.png
+78,businessTools,Joomla!,https://img.stackshare.io/service/1227/SYUsgebu_400x400.jpg
+79,businessTools,Microsoft Teams,https://img.stackshare.io/service/5989/teams.png
+80,businessTools,Figma,https://img.stackshare.io/service/7007/MFYQOphW_400x400.jpg
+81,businessTools,Balsamiq,https://img.stackshare.io/service/141/LJf-7p3B.png
+82,businessTools,Adobe Illustrator,https://img.stackshare.io/service/3175/adobe-illustrator.png
+83,businessTools,Discord,https://img.stackshare.io/service/4418/gT8yKJa7.jpg
+84,businessTools,Medium,https://img.stackshare.io/service/1225/57136-4b1a5b74c7fc047afba480ca3d0bdb80-medium_jpg.jpg
+85,businessTools,Pivotal Tracker,https://img.stackshare.io/service/1/422314579c5a2b89852d2ba6432d7716.png
+86,businessTools,Zeplin,https://img.stackshare.io/service/3457/SNbLveBx.jpg
+87,businessTools,Google Sheets,https://img.stackshare.io/service/1100/google-sheets.jpg
+88,businessTools,Basecamp,https://img.stackshare.io/service/110/X-gfZudw_400x400.jpg
+89,businessTools,notion.so,https://img.stackshare.io/service/6758/cbCR7w5R_400x400.jpg
+90,businessTools,Contentful,https://img.stackshare.io/service/672/Contentful_white_logo.png
+91,businessTools,tawk.to,https://img.stackshare.io/service/3949/thi6k5bh_400x400.jpg
+92,businessTools,Microsoft Office 365,https://img.stackshare.io/service/4167/KkVyIqPN_400x400.jpg
+93,businessTools,Redmine,https://img.stackshare.io/service/1186/redmine-logo-twitter_400x400.png
+94,businessTools,Adobe Experience Manager,https://img.stackshare.io/service/4343/8ei_UuLc_200x200.png
+95,businessTools,Airtable,https://img.stackshare.io/service/1512/logo.png
+96,businessTools,LiveChat,https://img.stackshare.io/service/119/yGTwda9h_400x400.jpg
+97,businessTools,Ghost,https://img.stackshare.io/service/1228/XRKixLnT_400x400.png
+98,businessTools,Mattermost,https://img.stackshare.io/service/3254/xiE1dr2s_400x400.jpg
+99,businessTools,RocketChat,https://img.stackshare.io/service/3124/14EIApTi_400x400.jpg
+100,businessTools,Buffer,https://img.stackshare.io/service/825/hnc3q-7x.jpg
+101,Utilities,Postman,https://img.stackshare.io/service/1336/xWMRvm_5_400x400.png
+102,Utilities,Stack Overflow,https://img.stackshare.io/service/1927/so-icon.png
+103,Utilities,Google Maps,https://img.stackshare.io/service/1652/googlemaps.png
+104,Utilities,Elasticsearch,https://img.stackshare.io/service/841/Image_2019-05-20_at_4.58.04_PM.png
+105,Utilities,GitHub Pages,https://img.stackshare.io/service/683/sBsvBbjY.png
+106,Utilities,Amazon Route 53,https://img.stackshare.io/service/38/amazon-route-53.png
+107,Utilities,Shopify,https://img.stackshare.io/service/266/xDoyHgZW_400x400.png
+108,Utilities,WooCommerce,https://img.stackshare.io/service/3139/y2hg0gx5_400x400.jpg
+109,Utilities,TensorFlow,https://img.stackshare.io/service/4717/FtFnqC38_400x400.png
+110,Utilities,Magento,https://img.stackshare.io/service/1769/wcU6vWxh_400x400.jpg
+111,Utilities,Disqus,https://img.stackshare.io/service/29/af69f7089ebfabe3bb33129bf9d4d325.png
+112,Utilities,Namecheap,https://img.stackshare.io/service/40/sSwMqqsH.png
+113,Utilities,Netlify,https://img.stackshare.io/service/2748/lV55uZMx.png
+114,Utilities,Google Cloud DNS,https://img.stackshare.io/service/696/s01TMTGn.png
+115,Utilities,DNS Made Easy,https://img.stackshare.io/service/1685/preview.png
+116,Utilities,Let's Encrypt,https://img.stackshare.io/service/4225/lSuJvwXU_400x400.jpg
+117,Utilities,Jekyll,https://img.stackshare.io/service/1114/ad968c1615d956e800fa36494314f48c.jpeg
+118,Utilities,Squarespace,https://img.stackshare.io/service/178/huJH2lyt_400x400.jpg
+119,Utilities,Swagger UI,https://img.stackshare.io/service/3417/pIea9Ji0.png
+120,Utilities,Auth0,https://img.stackshare.io/service/601/5Nm3jtVh.jpeg
+121,Utilities,Algolia,https://img.stackshare.io/service/589/iEEMVN5L_400x400.jpg
+122,Utilities,Dyn,https://img.stackshare.io/service/37/fsKWm_AI_400x400.jpg
+123,Utilities,Leaflet,https://img.stackshare.io/service/2392/leaflet_upic.png
+124,Utilities,Amazon API Gateway,https://img.stackshare.io/service/3299/aws-api-gateway.png
+125,Utilities,AWS IAM,https://img.stackshare.io/service/418/aws-iam.png
+126,Utilities,Jupyter,https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg
+127,Utilities,Arduino,https://img.stackshare.io/service/3195/9d19310763171b0d958d23a18b3d7e1c.png
+128,Utilities,Keras,https://img.stackshare.io/service/5601/keras.png
+129,Utilities,scikit-learn,https://img.stackshare.io/service/2657/scikit-learn-logo.png
+130,Utilities,PyTorch,https://img.stackshare.io/service/8171/YYpjkbVn_400x400.jpg
+131,Utilities,Solr,https://img.stackshare.io/service/1596/al3IkKF8.png
+132,Utilities,Mapbox,https://img.stackshare.io/service/1640/cvosutVr_400x400.jpg
+133,Utilities,Amazon Kinesis,https://img.stackshare.io/service/433/16ffae8c667bdbc6a4969f6f02090652.png
+134,Utilities,GoDaddy,https://img.stackshare.io/service/42/eH9oma1K.png
+135,Utilities,Amazon Cognito,https://img.stackshare.io/service/1093/16ffae8c667bdbc6a4969f6f02090652.png
+136,Utilities,Insomnia REST Client,https://img.stackshare.io/service/6406/qLPJL1NZ.jpg
+137,Utilities,Devise,https://img.stackshare.io/service/1432/devise.png
+138,Utilities,Weebly,https://img.stackshare.io/service/176/ajoQm8C7_400x400.png
+139,Utilities,PrestaShop,https://img.stackshare.io/service/925/C6U2rHtG_400x400.jpg
+140,Utilities,Keycloak,https://img.stackshare.io/service/5439/oAC05cEB_400x400.png
+141,Utilities,Amazon Elasticsearch Service,https://img.stackshare.io/service/3736/amazon-elasticsearch-service.png
+142,Utilities,Vercel,https://img.stackshare.io/service/7618/bHjpwZem_400x400.png
+143,Utilities,Webflow,https://img.stackshare.io/service/587/truotQk9.png
+144,Utilities,VuePress,https://img.stackshare.io/service/8863/paeckCWC.png
+145,Utilities,Apiary,https://img.stackshare.io/service/272/7b176017eab2903a23d914460b6dd600.jpeg
+146,Utilities,Inspectlet,https://img.stackshare.io/service/2439/kfind.png
+147,Utilities,Raspberry Pi,https://img.stackshare.io/service/5174/LcSgue9p_400x400.png
+148,Utilities,OpenStreetMap,https://img.stackshare.io/service/2068/OSM_fixed_512.png
+149,Utilities,Paw,https://img.stackshare.io/service/2032/YApveawR.png
+150,Utilities,Lottie,https://img.stackshare.io/service/6445/lottie.png
+151,DevOps,DevOps Automation for SQL Server,https://img.stackshare.io/service/11275/devopsdata.png
+152,DevOps,Azure DevOps,https://img.stackshare.io/service/4313/XNKktHjN_400x400.png
+153,DevOps,Azure DevOps Server,https://img.stackshare.io/service/4414/BpqlqOrE_400x400.jpg
+154,DevOps,Toad DevOps Toolkit,https://img.stackshare.io/service/12194/toadDev.png
+155,DevOps,ApexSQL DevOps toolkit,https://img.stackshare.io/service/12193/Wqt9ju1O_400x400.png
+156,DevOps,Compliant Database DevOps,https://img.stackshare.io/service/12192/compliant.png
+157,DevOps,GitHub,https://img.stackshare.io/service/27/sBsvBbjY.png
+158,DevOps,Git,https://img.stackshare.io/service/1046/git.png
+159,DevOps,Docker,https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+160,DevOps,Visual Studio Code,https://img.stackshare.io/service/4202/Visual_Studio_Code_logo.png
+161,DevOps,npm,https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+162,DevOps,Jenkins,https://img.stackshare.io/service/670/jenkins.png
+163,DevOps,GitLab,https://img.stackshare.io/service/880/lmalkclL.png
+164,DevOps,Bitbucket,https://img.stackshare.io/service/28/35O2KIRX_400x400.jpg
+165,DevOps,Kubernetes,https://img.stackshare.io/service/1885/21_d3cvM.png
+166,DevOps,Sublime Text,https://img.stackshare.io/service/642/SublimeText_Master_012312_icon.png
+167,DevOps,Webpack,https://img.stackshare.io/service/1682/IMG_4636.PNG
+168,DevOps,Visual Studio,https://img.stackshare.io/service/1451/SR2hUhQN.png
+169,DevOps,IntelliJ IDEA,https://img.stackshare.io/service/1453/icon_IntelliJIDEA.png
+170,DevOps,VirtualBox,https://img.stackshare.io/service/774/vbox_94px.png
+171,DevOps,Modernizr,https://img.stackshare.io/service/2440/9TeXWBzR_400x400.jpg
+172,DevOps,Vim,https://img.stackshare.io/service/644/vim_logo.png
+173,DevOps,New Relic,https://img.stackshare.io/service/103/yEDRfH2o.jpeg
+174,DevOps,Android Studio,https://img.stackshare.io/service/1447/AyreX9yf.jpeg
+175,DevOps,Atom,https://img.stackshare.io/service/648/QbnVqgX4.png
+176,DevOps,PyCharm,https://img.stackshare.io/service/1644/logo.png
+177,DevOps,Ansible,https://img.stackshare.io/service/663/ElOjna20.png
+178,DevOps,Xcode,https://img.stackshare.io/service/1448/xcode.png
+179,DevOps,Docker Compose,https://img.stackshare.io/service/3136/docker-compose.png
+180,DevOps,Kibana,https://img.stackshare.io/service/1722/Image_2019-05-20_at_4.53.31_PM.png
+181,DevOps,Notepad++,https://img.stackshare.io/service/646/logo.png
+182,DevOps,gulp,https://img.stackshare.io/service/844/iruTC031.png
+183,DevOps,Babel,https://img.stackshare.io/service/2739/-1wfGjNw.png
+184,DevOps,Yarn,https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+185,DevOps,Selenium,https://img.stackshare.io/service/1517/sbUizSli_400x400.jpg
+186,DevOps,PhpStorm,https://img.stackshare.io/service/1452/icon_PhpStorm.png
+187,DevOps,ESLint,https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+188,DevOps,Sentry,https://img.stackshare.io/service/191/lzoDXqf-.png
+189,DevOps,Varnish,https://img.stackshare.io/service/1073/mPwTb3BF.png
+190,DevOps,Vagrant,https://img.stackshare.io/service/768/150px-Vagrant.png
+191,DevOps,Travis CI,https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+192,DevOps,WebStorm,https://img.stackshare.io/service/1455/icon_WebStorm.png
+193,DevOps,SourceTree,https://img.stackshare.io/service/1599/sourcetree.png
+194,DevOps,Grafana,https://img.stackshare.io/service/2645/rhtKuA9t.png
+195,DevOps,Terraform,https://img.stackshare.io/service/1276/terraform.png
+196,DevOps,CircleCI,https://img.stackshare.io/service/190/CvqrSSFs_400x400.jpg
+197,DevOps,Gradle,https://img.stackshare.io/service/975/gradlephant-social-black-bg.png
+198,DevOps,Logstash,https://img.stackshare.io/service/1683/preview.png
+199,DevOps,AWS Elastic Load Balancing (ELB),https://img.stackshare.io/service/2587/aws-elastic-load-balancing.png
+200,DevOps,Amazon CloudWatch,https://img.stackshare.io/service/401/amazon-cloudwatch.png
